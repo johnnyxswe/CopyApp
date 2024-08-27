@@ -1,14 +1,16 @@
-{
-  "budgetId": 1,
-  "name": "Dog Food",
-  "category": "Dogs",
-  "type": "BILLS",
-  "cost": 100.00,
-  "spent": 0.0,
-  "remaining": 100.00,
-  "payee": "Johnny",
-  "isPaid": false,
-  "isRequired": true,
-  "createdOn": "2024-08-27T00:00:00",
-  "updatedOn": "2024-08-27T00:00:00"
-}
+[
+  {
+    "budgetId": 1,
+    "name": "Dog Food",
+    "category": "Dogs",
+    "type": "BILLS",
+    "cost": 100.00,
+    "spent": 0.0,
+    "remaining": 100.00,
+    "payee": "Johnny",
+    "isPaid": false,
+    "isRequired": true,
+    "createdOn": "2024-08-27T00:00:00",
+    "updatedOn": "2024-08-27T00:00:00"
+  }
+]
